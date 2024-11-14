@@ -1,0 +1,31 @@
+лист. 14, 2024 10:12:14 ПП com.flowershop.Main main
+INFO: Application started
+лист. 14, 2024 10:13:03 ПП com.flowershop.Main main
+INFO: Application started
+лист. 14, 2024 10:17:21 ПП com.flowershop.Main main
+INFO: Application started
+лист. 14, 2024 10:20:34 ПП com.flowershop.Main main
+INFO: Application started
+лист. 14, 2024 10:20:34 ПП com.flowershop.Main main
+SEVERE: An unexpected error occurred in the application: Test SEVERE error
+java.lang.RuntimeException: Test SEVERE error
+	at com.flowershop.Main.main(Main.java:27)
+
+лист. 14, 2024 10:23:52 ПП com.flowershop.Main main
+INFO: Application started
+лист. 14, 2024 10:23:52 ПП com.flowershop.Main main
+SEVERE: An unexpected error occurred in the application: Test SEVERE error
+java.lang.RuntimeException: Test SEVERE error
+	at com.flowershop.Main.main(Main.java:27)
+
+лист. 14, 2024 10:29:53 ПП com.flowershop.Main main
+INFO: Application started
+лист. 14, 2024 10:29:53 ПП com.flowershop.Main main
+SEVERE: An unexpected error occurred in the application: Test SEVERE error
+java.lang.RuntimeException: Test SEVERE error
+	at com.flowershop.Main.main(Main.java:27)
+
+лист. 14, 2024 10:43:10 ПП com.flowershop.Main main
+INFO: Програма запущена
+лист. 14, 2024 11:01:53 ПП com.flowershop.Main main
+INFO: Програма запущена
